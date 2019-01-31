@@ -1,3 +1,5 @@
 Hello World!
-
 Second round on me
+This should be a conflict...
+And this should be fine
+
