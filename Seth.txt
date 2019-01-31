@@ -1,1 +1,5 @@
 Hello World!
+
+This should be a conflict...
+
+And this should be fine
